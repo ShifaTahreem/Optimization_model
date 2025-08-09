@@ -93,3 +93,6 @@ Include integer constraints for discrete production planning.
 
 Implement sensitivity analysis to see how changes in resource availability affect the solution.
 
+Outputs:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cabb282a-197e-497b-916b-422052e619e2" />
