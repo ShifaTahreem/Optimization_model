@@ -96,3 +96,5 @@ Implement sensitivity analysis to see how changes in resource availability affec
 Outputs:
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cabb282a-197e-497b-916b-422052e619e2" />
+
+<img width="892" height="343" alt="Image" src="https://github.com/user-attachments/assets/55883ea3-01b7-4882-a28d-34ca3cc6c395" />
