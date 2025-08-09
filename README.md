@@ -1,4 +1,16 @@
 # Optimization_model
+COMPANY:CODECH IT SOLUTIONS
+
+INTERN ID:CT04DZ1769
+
+DOMAIN:DATA SCIENCE
+
+DURATION:4 WEEKS
+
+MENTOR:NEELA SANTOSH
+
+PROJECT DESCRIPTION:SOLVE A BUSINESS PROBLEM USING OPTIMIZATION TECHNIQUES (E.G., LINEAR PROGRAMMING) AND PYTHON LIBRARIES LIKE PULP
+
 Project Overview
 This project demonstrates how to solve a real-world business problem using Linear Programming (LP) techniques with the PuLP library in Python. Optimization models are widely used in industries such as manufacturing, logistics, transportation, and finance to maximize profits, minimize costs, or achieve a balance between resources and constraints.
 
